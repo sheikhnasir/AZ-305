@@ -1,8 +1,4 @@
- ---
-casestudy:
-    title: 'No formal case study'
-    module: 'Migration solutions'
----
+
 
 Case Study Title: Optimizing Cloud Costs for TailWind Trader Corporation
 
