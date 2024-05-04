@@ -10,22 +10,22 @@
 - Windows Server 2008 with SQL Server 2005: Hosts critical business databases on SQL Server 2005. Due to the end of support for Windows Server 2008 and SQL Server 2005, migration to a supported platform is necessary to ensure security and compliance.
 * Linux Server with Apache Server and MySQL 5.0: Supports web hosting and runs applications using Apache Server and MySQL 5.0. Upgrading to newer versions of Apache and MySQL or migrating to cloud-native alternatives can enhance performance and security.
 + Windows Server 2012 with Joomla: Hosts a Joomla-based content management system (CMS). Migrating Joomla to a cloud-based CMS solution or upgrading to a newer version can improve reliability and scalability.
-Clustered SQL Server for Finance Application: Utilizes a clustered SQL Server environment for hosting finance applications. Migrating the finance application to a cloud-native solution can improve availability and reduce infrastructure costs.
++ Clustered SQL Server for Finance Application: Utilizes a clustered SQL Server environment for hosting finance applications. Migrating the finance application to a cloud-native solution can improve availability and reduce infrastructure costs.
 
 ## Challenges:
 
-Lack of Cost Visibility:TailWind Traderlacks visibility into how and where their cloud budget is being spent. They are unable to track individual resource costs or identify areas of overspending.
-Resource Overprovisioning: Due to a lack of optimization,TailWind Traderis consistently overprovisioning resources, leading to underutilization and unnecessary expenses.
-Complex Billing Structures: The complexity of cloud service pricing models makes it difficult forTailWind Traderto accurately forecast and budget their cloud spending.
-Limited Cost Governance:TailWind Traderlacks a centralized governance framework for managing cloud costs across different business units and departments.
++ Lack of Cost Visibility:TailWind Traderlacks visibility into how and where their cloud budget is being spent. They are unable to track individual resource costs or identify areas of overspending.
++ Resource Overprovisioning: Due to a lack of optimization,TailWind Traderis consistently overprovisioning resources, leading to underutilization and unnecessary expenses.
++ Complex Billing Structures: The complexity of cloud service pricing models makes it difficult forTailWind Traderto accurately forecast and budget their cloud spending.
++ Limited Cost Governance:TailWind Traderlacks a centralized governance framework for managing cloud costs across different business units and departments.
 
 ## Objectives:
 
-Cost Optimization: Implement strategies to optimize cloud spending without compromising performance or reliability.
-Cost Visibility: Gain granular visibility into cloud costs and resource usage to identify areas for improvement.
-Governance and Accountability: Establish clear policies and governance mechanisms to monitor and control cloud spending.
-Continuous Improvement: Implement processes for ongoing monitoring, analysis, and optimization of cloud costs to ensure long-term sustainability.
-Migration Method: Identify and implement efficient migration methods to move existing on-premises workloads and applications to the cloud, optimizing costs during the migration process.
++ Cost Optimization: Implement strategies to optimize cloud spending without compromising performance or reliability.
++ Cost Visibility: Gain granular visibility into cloud costs and resource usage to identify areas for improvement.
++ Governance and Accountability: Establish clear policies and governance mechanisms to monitor and control cloud spending.
++ Continuous Improvement: Implement processes for ongoing monitoring, analysis, and optimization of cloud costs to ensure long-term sustainability.
++ Migration Method: Identify and implement efficient migration methods to move existing on-premises workloads and applications to the cloud, optimizing costs during the migration process.
 Proposed Solutions:
 
 Cloud Cost Management Tool: Implement a cloud cost management tool, such as Azure Cost Management, to gain visibility into cloud spending and track resource usage.
