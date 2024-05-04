@@ -7,7 +7,7 @@
 
 ## Current Server Environment:
 
-- Windows Server 2008 with SQL Server 2005: Hosts critical business databases on SQL Server 2005. Due to the end of support for Windows Server 2008 and SQL Server 2005, migration to a supported platform is necessary to ensure security and compliance.
+- Windows Server 2008 with SQL Server 2005: Hosts critical business databases on SQL Server 2005. Due to the end of support for Windows Server 2008 and SQL Server 2005, migration to a supported platform is necessary to ensure security and compliance. Current ASP.net is used in the Server being hosted in the Server.
 * Linux Server with Apache Server and MySQL 5.0: Supports web hosting and runs applications using Apache Server and MySQL 5.0. Upgrading to newer versions of Apache and MySQL or migrating to cloud-native alternatives can enhance performance and security.
 + Windows Server 2012 with Joomla: Hosts a Joomla-based content management system (CMS). Migrating Joomla to a cloud-based CMS solution or upgrading to a newer version can improve reliability and scalability.
 + Clustered SQL Server for Finance Application: Utilizes a clustered SQL Server environment for hosting finance applications. Migrating the finance application to a cloud-native solution can improve availability and reduce infrastructure costs.
