@@ -1,7 +1,7 @@
 
-
+--
 Case Study Title: Optimizing Cloud Costs for TailWind Trader Corporation
-
+--
 Background:
  TailWind Trader  Corporation is a multinational company that operates in various industries, including finance, manufacturing, and technology. Over the years,TailWind Traderhas transitioned many of its IT infrastructure and applications to the cloud to improve scalability, flexibility, and performance. However, the company is facing challenges in managing its cloud costs effectively. Despite the benefits of cloud adoption,  TailWind Trader 's monthly cloud bills are increasing steadily, impacting their bottom line.
 
@@ -11,8 +11,9 @@ Windows Server 2008 with SQL Server 2005: Hosts critical business databases on S
 Linux Server with Apache Server and MySQL 5.0: Supports web hosting and runs applications using Apache Server and MySQL 5.0. Upgrading to newer versions of Apache and MySQL or migrating to cloud-native alternatives can enhance performance and security.
 Windows Server 2012 with Joomla: Hosts a Joomla-based content management system (CMS). Migrating Joomla to a cloud-based CMS solution or upgrading to a newer version can improve reliability and scalability.
 Clustered SQL Server for Finance Application: Utilizes a clustered SQL Server environment for hosting finance applications. Migrating the finance application to a cloud-native solution can improve availability and reduce infrastructure costs.
+--
 Challenges:
-
+--
 Lack of Cost Visibility:TailWind Traderlacks visibility into how and where their cloud budget is being spent. They are unable to track individual resource costs or identify areas of overspending.
 Resource Overprovisioning: Due to a lack of optimization,TailWind Traderis consistently overprovisioning resources, leading to underutilization and unnecessary expenses.
 Complex Billing Structures: The complexity of cloud service pricing models makes it difficult forTailWind Traderto accurately forecast and budget their cloud spending.
